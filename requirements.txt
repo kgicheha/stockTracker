@@ -1,2 +1,4 @@
 # frameworks needed to get the app working
 flask
+yfinance
+matplotlib

@@ -1,4 +1,4 @@
-#!/Users/kevinkimani/Documents/CodingProjects/stockWatchPlatform/flask-server/venv/bin/python3.11
+#!/Users/kevinkimani/Documents/CodingProjects/stockTracker/flask-server/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
