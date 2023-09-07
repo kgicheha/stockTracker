@@ -1,4 +1,6 @@
 
 # used to remove key.js from being uploaded
 # git rm --cached ../src/key.js
-git rm --cached ./src/key.js
+# git rm --cached ./src/key.js
+
+./src/key
